@@ -1,0 +1,8 @@
+# You can add comments to your tests
+# The test are described in the following format :
+# standard_input_content:expected_standard_output_content
+
+# Here we're testing the bc calculator
+:
+1+1:2
+2*5:11
